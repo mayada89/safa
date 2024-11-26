@@ -2,6 +2,8 @@
 Booking system
 - System allow users to view available time slots for specific pitche on given date.
 - Book pitche according to returned slots.
+
+* Design pattern used => ADR
   
 * Setup Instruction
   1. Composer install
